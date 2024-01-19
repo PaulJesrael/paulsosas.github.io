@@ -18,6 +18,7 @@ body {
 	padding: 10px;
 	text-align: center;
 	column-count: 3;
+	margin-left: auto;
 }
 header {
 	text-align: center;
