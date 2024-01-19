@@ -15,7 +15,7 @@ body {
 
 .experience {
 	column-rule: 1px solid gray;
-	padding: 20px;
+	padding: 10px;
 	text-align: center;
 	column-count: 3;
 }
