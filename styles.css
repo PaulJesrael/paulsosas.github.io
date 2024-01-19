@@ -13,6 +13,12 @@ body {
  	background-color: #F5FFFA;
 }
 
+.experience {
+	column-rule: 1px solid gray;
+	padding: 20px;
+	text-align: center;
+	column-count: 3;
+}
 header {
 	text-align: center;
 	padding: 50px;
@@ -64,7 +70,11 @@ footer {
 	background-color: #808080;
 	color: black;
 }
-
+img.pic {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 img {
 	width: 20%;
 	border-radius: 5px;
